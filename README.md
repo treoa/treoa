@@ -1,4 +1,4 @@
-### Welcome aboard of Treo's GitHub Profile 👋
+### Welcome aboard of my GitHub Profile 👋
 
 ---
 <h3 align="center">My stats</h3>

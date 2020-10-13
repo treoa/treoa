@@ -17,7 +17,7 @@
 <h3 align="center">My wakatime</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=treoa&custom_title=💻+Treo's+wakatime+stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=treoa">
 </p>
 
 <!--

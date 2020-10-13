@@ -1,7 +1,7 @@
 ### Welcome aboard of Treo's GitHub Profile 👋
 
 ---
-<h4 aligne="center">My stats</h4>
+<h4 align="center">My stats</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=treoa&count_private=true&show_icons=true&theme=buefy&custom_title=💻+Treo's+magic+on+GitHub">
 </p>

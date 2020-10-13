@@ -1,8 +1,14 @@
 ### Welcome aboard of Treo's GitHub Profile 👋
 
+<img align="center"src="https://github-readme-stats.vercel.app/api?username=treoa&count_private=true&show_icons=true&theme=buefy&custom_title=Treo's+magics+on+GitHub">
+
+<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=treoa&layout=compact&count_private=true&custom_title=Treo's+top+languages+on+GitHub">
+
+<!--
 [![Treo's github stats](https://github-readme-stats.vercel.app/api?username=treoa&count_private=true&show_icons=true&theme=buefy&custom_title=Treo's+magics+on+GitHub)](https://github.com/treoa)
 
 [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=treoa&layout=compact&count_private=true&custom_title=Treo's+top+languages+on+GitHub)](https://github.com/treoa)
+-->
 
 <!--
 - 🔭 I’m currently working on ...

@@ -2,6 +2,8 @@
 
 [![Treo's github stats](https://github-readme-stats.vercel.app/api?username=treoa&count_private=true&show_icons=true&theme=buefy&custom_title=Treo's+magics+on+GitHub")](https://github.com/treoa)
 
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=treoa&layout=compact)](https://github.com/treoa)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

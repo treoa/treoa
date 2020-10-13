@@ -3,7 +3,7 @@
 ---
 <h3 align="center">My stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=treoa&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=💻+Treo's+magic+on+GitHub&bg_color=20,fdfbfb,ebedee">
+  <img src="https://github-readme-stats.vercel.app/api?username=treoa&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=💻+Treo's+magic+on+GitHub&bg_color=20,e6e9f0,eef1f5">
 </p>
 
 ---

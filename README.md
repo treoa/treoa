@@ -13,6 +13,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treoa&layout=compact&custom_title=💻+Treo's+top+languages+used">
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/treoa?template=classic&base.hireable=true&achievements=1&base.indepth=false&base.hireable=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FAlmaty&config.twemoji=true&config.octicon=true">
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
